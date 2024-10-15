@@ -8,7 +8,7 @@ Alumnos:
     Facundo Falcone
     Rodrigo Maximiliano Portillo
 
-Este proyecto es una tienda que está dividido en dos partes: el backend, que utiliza FastAPI, y el frontend, que utiliza Vue conectada a una base de datos MongoDB. A continuación, se describen los pasos necesarios para clonar el proyecto y ejecutarlo en tu máquina local.
+Este proyecto es una tienda que está dividido en dos partes: el backend, que utiliza FastAPI conectado a una base de datos MongoDB, y el frontend, que utiliza Vue. A continuación, se describen los pasos necesarios para clonar el proyecto y ejecutarlo en tu máquina local.
 Requisitos Previos
 
 Antes de comenzar, asegúrate de tener instalados los siguientes programas:
