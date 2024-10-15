@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de configuración de entornos
+*.env
+
+# Pytest
+.cache
+*.cover
+nosetests.xml
+coverage.xml
+*.egg-info/
+dist/
+build/
+
+# Archivos de bloqueo de dependencias
+*.lock
