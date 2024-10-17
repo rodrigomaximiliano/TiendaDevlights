@@ -35,7 +35,8 @@ Activar el Entorno Virtual
 
     En Windows:
 
-venv\Scripts\activate
+.\venv\Scripts\Activate.ps1
+
 
 En macOS/Linux:
 
