@@ -119,7 +119,6 @@ export default {
       require('@/assets/img1.webp'),
       require('@/assets/img2.webp'),
       require('@/assets/img3.webp'),
-      require('@/assets/img4.webp')
     ];
 
     // Productos destacados
