@@ -66,10 +66,11 @@ export default {
       if (!valid.value) return;
 
       try {
-        await axios.post('http://localhost:8000/register', {
-          username: username.value,
-          password: password.value,
-        });
+        await axios.post('http://localhost:8000/auth/register', {
+  username: username.value,
+  password: password.value,
+      });
+
         alert('Registro exitoso');
         username.value = '';
         password.value = '';
